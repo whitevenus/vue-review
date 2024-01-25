@@ -1,6 +1,4 @@
-# vue-review
-
-#### introduce
+## introduce
 
 Completing a review of vue by refactoring the teacher's class projects (including refactoring page layouts and refactoring front-end and back-end separations).
 
